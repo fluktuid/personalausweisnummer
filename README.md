@@ -5,25 +5,25 @@ Das folgende Programm hilft dabei die Prüfziffern des Personalausweises zu übe
 
 ##  Mögliche Eingaben : 
 ```
-\-h: Hilfe
+-h: Hilfe
 ```
 
 ### GENERIEREN
 ```
-\-g: generieren der Prüfziffer
+-g: generieren der Prüfziffer
     xxxxxxxx xxxx xxxx
        (9)    (6)  (6)
     oder
     xxxxxxxxxxxxxxxx
            (21)
     Die Eingabe erfolgt ohne Prüfziffer.
-\-f: generieren der ersten Prüfziffer
-\-s: generieren der zweiten Prüfziffer
-\-t: generieren der dritten Prüfziffer
+-f: generieren der ersten Prüfziffer
+-s: generieren der zweiten Prüfziffer
+-t: generieren der dritten Prüfziffer
 ```
 ### PRÜFEN
 ```
-\-c: Überprüfen der Prüfziffer
+-c: Überprüfen der Prüfziffer
     xxxxxxxx xxxx xxxx x
 ```
 
